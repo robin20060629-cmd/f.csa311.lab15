@@ -1,5 +1,9 @@
-# Compiled class file
+target/
+.metals/
+.bloop/
+.vscode/
 *.class
+<<<<<<< HEAD
 
 # Log file
 *.log
@@ -25,3 +29,5 @@ replay_pid*
 target/
 
 target/
+=======
+>>>>>>> main
